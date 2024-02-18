@@ -1,1 +1,1 @@
-Scripts for extracting environments from underlying forms and performing simple environment analysis.
+Scripts for extracting environments from surface forms and performing simple environment analysis.
